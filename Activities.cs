@@ -17,47 +17,47 @@ namespace api
 				{
 					new Activities.Charades.word
 					{
-						EN_US = "talking ben",
+						EN_US = "fat cock",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "lemon",
+						EN_US = "axel in harlem",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "grape",
+						EN_US = "thug shaker",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "roblox",
+						EN_US = "coach sucking cock",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "tree",
+						EN_US = "cocaine",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "cloud",
+						EN_US = "down syndrome",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "iphone",
+						EN_US = "autism",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "your house",
+						EN_US = "your ip adress",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "spaghetti",
+						EN_US = "DOO DOO BROWN (inside joke)",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
@@ -67,62 +67,62 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "bitcoin",
+						EN_US = "nft's",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "nft",
+						EN_US = "chuck e cheese rule 34",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "grass",
+						EN_US = "prime",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "recroom2016",
+						EN_US = "I AM A SURGEON",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "joker",
+						EN_US = "terminal cancer",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "fortnite",
+						EN_US = "luh tonka",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "woman",
+						EN_US = "rec room pussy",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "spiderman",
+						EN_US = "fucking a dog",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "vr",
+						EN_US = "what the dog doin?",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "among us",
+						EN_US = "suicide",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "coach",
+						EN_US = "hentai",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "coach with a gun",
+						EN_US = "tenticle hentai",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
@@ -132,12 +132,12 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "skinwalker",
+						EN_US = "nice cock",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "christmas tree",
+						EN_US = "gimme da thug shaker dude",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
@@ -147,32 +147,32 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "stick of ram",
+						EN_US = "whopper",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "big mac",
+						EN_US = "andrew's mom",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "ninetndo switch",
+						EN_US = "doin ya mom",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "crescendo",
+						EN_US = "andrew tate",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "boxing",
+						EN_US = "vaping (aldo)",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "angry birds",
+						EN_US = "crimson chin (emma)",
 						Difficulty = 0
 					}
 				};
